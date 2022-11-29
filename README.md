@@ -1,7 +1,8 @@
 
 # 🌎 SPA UNIVERSE
 
-Projeto realizado para aprendizado de SPA 
+Nesse desafio foi proposto a recriação de um layout de uma aplicação SPA (Single Page Application) básico que roda com Node.js.
+O projeto exibe três páginas diferentes, alterando o conteúdo e a imagem de fundo, desde que o usuário clique nos itens do menu.
 
 
 ## ☑️ Demonstração
@@ -28,4 +29,13 @@ Após ter baixado o projeto, instale o Node.js {https://nodejs.org/en/} , caso j
 
 Para suporte, mande um e-mail para dalton.programador@gmail.com
 Grato!
+
+
+## 🚀 Aprendizados - SPA UNIVERSE
+
+* Conceitos de SPA;
+* Mapeamento de rotas;
+* Assíncrono e promises;
+* Orientação a objetos;
+* Classes e muito mais.
 
