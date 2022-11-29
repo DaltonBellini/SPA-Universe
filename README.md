@@ -27,7 +27,7 @@ O projeto exibe três páginas diferentes, alterando o conteúdo e a imagem de f
 
 ## 💻 Rodando o projeto
 
-Após ter baixado o projeto, instale o Node.js {https://nodejs.org/en/} , caso já tenha em sua máquina, abra o seu editor de código da sua preferência, logo em seguida abra o terminal dentro do seu editor de código e rode os seguintes comandos:
+Após ter baixado o projeto, instale o Node.js { https://nodejs.org/en/ } , caso já tenha em sua máquina, abra o seu editor de código da sua preferência, logo em seguida abra o terminal dentro do seu editor de código e rode os seguintes comandos:
 
 ```bash
   npm install lite-server
